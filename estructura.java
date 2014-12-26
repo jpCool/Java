@@ -8,7 +8,17 @@ public class AprendiendoJava{
 		
 			System.out.println("Hola Mundo, Estoy aprendiendo JAVA rapidamente");
 
+		//Creacion de variables
+
+			String cadenaTexto = "texto";
+			int numero = 19;
+			double decimal = 12.2;
+			boolean booleano = True;
+			char caracter = 'a';
+
 
 	}
 
 }
+
+
