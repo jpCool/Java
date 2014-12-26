@@ -8,7 +8,7 @@ public class AprendiendoJava{
 		
 			System.out.println("Hola Mundo, Estoy aprendiendo JAVA rapidamente");
 
-		//Creacion de variables
+		//Creacion de variables con su respectivo tipo de dato
 
 			String cadenaTexto = "texto";
 			int numero = 19;
